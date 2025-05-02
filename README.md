@@ -1,6 +1,6 @@
 ## Hi there, I'm Ronke! 👋
 
-![banner](https://https://sites.google.com/view/kemiashaju/home)
+(https://https://sites.google.com/view/kemiashaju/home)
 
 ## About Me 🚀
 
@@ -33,6 +33,6 @@ I'm a Software Engineer who is passionate about encouraging others to get in the
 
 ## Get in Touch 📬
 
-- [LinkedIn](https://x.com/KemiOlugbogi) 
-- [Twitter](https://www.linkedin.com/in/ronkeashaju/) 
+- [Twitter](https://x.com/KemiOlugbogi) 
+- [LinkedIn](https://www.linkedin.com/in/ronkeashaju/) 
 

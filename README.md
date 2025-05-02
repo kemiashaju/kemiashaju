@@ -1,4 +1,3 @@
-<!--
 ## Hi there, I'm Ronke! 👋
 
 ![banner-ladydev](https://user-images.githubusercontent.com/122485963/232846230-475aebec-73c5-499b-98dd-8c8167a8b149.png)
@@ -37,4 +36,3 @@ I'm a Software Engineer who is passionate about encouraging others to get in the
 - [LinkedIn](https://x.com/KemiOlugbogi) 
 - [Twitter](https://www.linkedin.com/in/ronkeashaju/) 
 
--->

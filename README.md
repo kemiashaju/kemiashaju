@@ -1,6 +1,6 @@
 ## Hi there, I'm Ronke! 👋
 
-(https://https://sites.google.com/view/kemiashaju/home)
+![banner-kemiashaju](https://https://sites.google.com/view/kemiashaju/home)
 
 ## About Me 🚀
 

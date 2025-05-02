@@ -1,6 +1,6 @@
 ## Hi there, I'm Ronke! 👋
 
-![banner-ladydev](https://user-images.githubusercontent.com/122485963/232846230-475aebec-73c5-499b-98dd-8c8167a8b149.png)
+!(https://user-images.githubusercontent.com/122485963/232846230-475aebec-73c5-499b-98dd-8c8167a8b149.png)
 
 ## About Me 🚀
 
